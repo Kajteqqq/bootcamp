@@ -29,4 +29,5 @@ class App {
 }
 
 export default App;
+
 //napisałem poprawnie ten kod i dalej ten błąd sie wyswietla
